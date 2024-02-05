@@ -252,6 +252,27 @@ X   X
  XXXX 
     X 
  XXX  
+""",
+    '/': r"""
+    X 
+   X  
+  X   
+ X    
+X     
+""",
+    '*': r"""
+X X X 
+ X X  
+X X X 
+ X X  
+X X X 
+""",
+    '!': r"""
+  X   
+  X   
+  X   
+      
+  X   
 """
 
 }
